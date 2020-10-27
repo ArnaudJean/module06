@@ -1,0 +1,9 @@
+*.*
+!*.png
+!*.py
+!*.sh
+!*.Rmd
+!*.md
+!.gitignore
+!*.jpg
+!*.ris
