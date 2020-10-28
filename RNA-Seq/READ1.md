@@ -1,3 +1,5 @@
+#read_me.py
+
 ##Short Read Alignment
 Author: Jean Arnaud
 
